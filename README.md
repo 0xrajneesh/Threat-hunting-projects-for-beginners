@@ -5,7 +5,7 @@
 Objective: Identify and analyze suspicious network traffic patterns indicative of malware or unauthorized access.
 Tasks: Capture network traffic using tools like Wireshark, analyze unusual traffic spikes, identify communication with known malicious IP addresses, and correlate findings with threat intelligence sources.
 
-## Endpoint Detection and Response (EDR) Investigation
+## Detecting unauthorized processes using Wazuh EDR
 
 Objective: Use EDR tools to detect and investigate potential threats on endpoints.
 Tasks: Deploy an EDR solution like CrowdStrike or Carbon Black, monitor for suspicious activities such as unusual process executions, analyze endpoint logs, and respond to detected threats by isolating affected systems.
